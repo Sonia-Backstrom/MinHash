@@ -99,17 +99,6 @@ Therefore, the estimated similarity is:
 
 The estimate may differ from the exact Jaccard similarity because MinHash is probabilistic.
 
-## Exercises
-
-The repository may contain exercises involving:
-
-1. Calculating exact Jaccard similarity
-2. Creating sets from documents or shingles
-3. Implementing hash functions
-4. Generating MinHash signatures
-5. Estimating Jaccard similarity using MinHash
-6. Comparing exact and estimated similarities
-7. Investigating the effect of different numbers of hash functions
 
 ## Project Structure
 
